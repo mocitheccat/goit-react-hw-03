@@ -1,0 +1,36 @@
+/* src/index.css */
+
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+    background-color: #013e3e;
+    color: #ededed;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+ul,
+ol,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+
+#root {
+    margin: 0 auto;
+}
